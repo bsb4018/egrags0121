@@ -1,0 +1,9 @@
+pinecone-client 
+python-dotenv 
+langchain 
+langchain-community 
+langchain-core 
+langchain-openai 
+beautifulsoup4 
+tiktoken 
+numpy
