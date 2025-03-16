@@ -8,3 +8,4 @@ langchain-pinecone
 beautifulsoup4 
 tiktoken 
 numpy
+pypdf
